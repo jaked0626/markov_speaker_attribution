@@ -1,0 +1,913 @@
+training markov model on:  speeches/obama1+2.txt speeches/mccain1+2.txt
+name of speech is:  speeches/obama-mccain3/MCCAIN-0.txt
+name of speech is:  speeches/obama-mccain3/MCCAIN-1.txt
+name of speech is:  speeches/obama-mccain3/MCCAIN-10.txt
+name of speech is:  speeches/obama-mccain3/MCCAIN-11.txt
+name of speech is:  speeches/obama-mccain3/MCCAIN-12.txt
+training markov model on:  speeches/obama1+2.txt speeches/mccain1+2.txt
+name of speech is:  speeches/obama-mccain3/MCCAIN-0.txt
+Speaker A: -2.1796736985426453
+Speaker B: -2.121470304264841
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-1.txt
+Speaker A: -2.1060584834816516
+Speaker B: -2.167956236501925
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-10.txt
+Speaker A: -2.49065095142667
+Speaker B: -2.4152965660610555
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-11.txt
+Speaker A: -2.14134253827211
+Speaker B: -2.1175973359090534
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-12.txt
+Speaker A: -2.4093802245826477
+Speaker B: -2.267507455664853
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-13.txt
+Speaker A: -2.283860868008696
+Speaker B: -2.1988782390425476
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-14.txt
+Speaker A: -2.338367189560824
+Speaker B: -2.2066861555051154
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-15.txt
+Speaker A: -2.2381462888238324
+Speaker B: -2.227793492053873
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-16.txt
+Speaker A: -2.10698325102368
+Speaker B: -2.0270080012734373
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-17.txt
+Speaker A: -2.9619283009356105
+Speaker B: -2.8747268048688372
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-18.txt
+Speaker A: -2.807233617986172
+Speaker B: -2.7134401052600374
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-19.txt
+Speaker A: -2.165916753800772
+Speaker B: -2.1464477536715783
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-2.txt
+Speaker A: -2.1444241217296667
+Speaker B: -2.104794836608678
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-20.txt
+Speaker A: -2.261820514553888
+Speaker B: -2.067535459727293
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-21.txt
+Speaker A: -2.299101031299197
+Speaker B: -2.2223342923144687
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-22.txt
+Speaker A: -1.8337302187731659
+Speaker B: -1.9988314210694968
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-23.txt
+Speaker A: -2.7060679146450006
+Speaker B: -2.5792517515666096
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-24.txt
+Speaker A: -2.157911634182957
+Speaker B: -2.1281706667752944
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-25.txt
+Speaker A: -1.9261258478563186
+Speaker B: -1.974906335082699
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-26.txt
+Speaker A: -1.8647985145265
+Speaker B: -1.8709319299613831
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-27.txt
+Speaker A: -2.7795244213399126
+Speaker B: -2.572775672928446
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-28.txt
+Speaker A: -2.3460981135172627
+Speaker B: -2.1452958238916158
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-29.txt
+Speaker A: -3.1346914928755147
+Speaker B: -2.69576994331825
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-3.txt
+Speaker A: -2.074756538171351
+Speaker B: -2.213375885428192
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-30.txt
+Speaker A: -2.0995538461520407
+Speaker B: -2.2524551011590748
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-31.txt
+Speaker A: -2.06214524310261
+Speaker B: -2.0773307312994533
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-32.txt
+Speaker A: -1.9318825463315623
+Speaker B: -1.9691555199661301
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-33.txt
+Speaker A: -2.370080086272263
+Speaker B: -2.5285491905796498
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-34.txt
+Speaker A: -2.311644015315371
+Speaker B: -2.235542253870502
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-35.txt
+Speaker A: -2.504188968983111
+Speaker B: -2.4858320592783523
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-36.txt
+Speaker A: -1.902289066223335
+Speaker B: -1.8272115240267421
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-37.txt
+Speaker A: -2.0668051993642687
+Speaker B: -1.965697644921015
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-38.txt
+Speaker A: -2.2176742114736023
+Speaker B: -2.1691962436159185
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-39.txt
+Speaker A: -2.2391335038819418
+Speaker B: -2.2069245256964227
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-4.txt
+Speaker A: -2.1839479721733417
+Speaker B: -2.1092052542113042
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-40.txt
+Speaker A: -3.1234469399339235
+Speaker B: -2.989595522426567
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-41.txt
+Speaker A: -2.3745244182347296
+Speaker B: -2.3077177514721203
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-42.txt
+Speaker A: -2.1184083392110247
+Speaker B: -2.101937880859202
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-43.txt
+Speaker A: -2.115929864821645
+Speaker B: -2.0546104100290212
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-44.txt
+Speaker A: -2.1528545385723916
+Speaker B: -2.1170928343006867
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-45.txt
+Speaker A: -2.193905831047762
+Speaker B: -2.1248120477507326
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-46.txt
+Speaker A: -1.9406849185675106
+Speaker B: -2.0761050175638753
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-47.txt
+Speaker A: -3.1000511345670985
+Speaker B: -3.2006175503235714
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-48.txt
+Speaker A: -4.678990143954688
+Speaker B: -4.602770743183253
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-49.txt
+Speaker A: -2.0907445530977196
+Speaker B: -2.0374012412084683
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-5.txt
+Speaker A: -1.6955229665559548
+Speaker B: -1.7481812967778003
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-50.txt
+Speaker A: -2.027759406109882
+Speaker B: -2.0193377874912706
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-51.txt
+Speaker A: -2.0313498082395816
+Speaker B: -1.9871810213442218
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-52.txt
+Speaker A: -2.1800276250992012
+Speaker B: -2.1350406026522784
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-53.txt
+Speaker A: -2.2257034609661015
+Speaker B: -2.1744481701332443
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-54.txt
+Speaker A: -2.261840819266747
+Speaker B: -2.164355958011531
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-55.txt
+Speaker A: -2.9234401838074247
+Speaker B: -2.8902319840371185
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-56.txt
+Speaker A: -2.1319663101802777
+Speaker B: -2.1143037675117857
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-57.txt
+Speaker A: -2.2366919227137076
+Speaker B: -2.248900286790077
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-58.txt
+Speaker A: -2.218566555363428
+Speaker B: -2.209609536446013
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-59.txt
+Speaker A: -2.2130166020430675
+Speaker B: -2.1570440509351116
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-6.txt
+Speaker A: -2.077301136323546
+Speaker B: -2.2271368511724
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-60.txt
+Speaker A: -1.9171519181366117
+Speaker B: -1.9072206432814351
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-61.txt
+Speaker A: -2.7537204428040036
+Speaker B: -2.581355654459596
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-62.txt
+Speaker A: -2.7385744212208745
+Speaker B: -2.643749154366817
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-63.txt
+Speaker A: -2.1540138663307706
+Speaker B: -2.1915569438254994
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-64.txt
+Speaker A: -2.1558640353844107
+Speaker B: -2.1230213797295403
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-7.txt
+Speaker A: -2.4974060648432523
+Speaker B: -2.431572027392455
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-8.txt
+Speaker A: -2.129093472428076
+Speaker B: -2.075290738367836
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN-9.txt
+Speaker A: -2.1427690825306964
+Speaker B: -2.0998287460754708
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/MCCAIN.txt
+Speaker A: -2.187570649836354
+Speaker B: -2.1428088959210894
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-0.txt
+Speaker A: -2.0483788552469964
+Speaker B: -2.1576877527449057
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-1.txt
+Speaker A: -2.074420477570866
+Speaker B: -2.2108074090113043
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-10.txt
+Speaker A: -2.0323102108436784
+Speaker B: -2.1351663513579666
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-11.txt
+Speaker A: -1.896260430151808
+Speaker B: -2.063175203686725
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-12.txt
+Speaker A: -2.154109982312807
+Speaker B: -2.114118100278234
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-13.txt
+Speaker A: -2.122316425002945
+Speaker B: -2.21633781035982
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-14.txt
+Speaker A: -2.062245089823583
+Speaker B: -2.154251950875346
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-15.txt
+Speaker A: -2.0521363035397533
+Speaker B: -2.1422488330161435
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-16.txt
+Speaker A: -3.0100330608188606
+Speaker B: -2.8534434916037377
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-17.txt
+Speaker A: -2.2613869216834277
+Speaker B: -2.249627357796921
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-18.txt
+Speaker A: -2.4459551935843176
+Speaker B: -2.2186800869625882
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-19.txt
+Speaker A: -2.4445417542011807
+Speaker B: -2.2912883398293284
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-2.txt
+Speaker A: -2.077107159224175
+Speaker B: -2.1604719606509124
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-20.txt
+Speaker A: -2.125942589247794
+Speaker B: -2.1643326908689917
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-21.txt
+Speaker A: -2.0019033273108535
+Speaker B: -2.205034348166359
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-22.txt
+Speaker A: -2.16359930238061
+Speaker B: -2.250733330454569
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-23.txt
+Speaker A: -1.9026167464050232
+Speaker B: -2.033622626602616
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-24.txt
+Speaker A: -2.8850173568928046
+Speaker B: -3.593557230222437
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-25.txt
+Speaker A: -2.554185072734156
+Speaker B: -2.5523239922274565
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-26.txt
+Speaker A: -2.0087370147634442
+Speaker B: -2.0559850247603983
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-27.txt
+Speaker A: -2.065294340580624
+Speaker B: -2.118606490169152
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-28.txt
+Speaker A: -2.3191071091147735
+Speaker B: -2.3393486140626694
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-29.txt
+Speaker A: -1.865504990913516
+Speaker B: -2.5363242751454913
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-3.txt
+Speaker A: -4.088665997263627
+Speaker B: -3.8029104149951114
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-30.txt
+Speaker A: -1.357825097836199
+Speaker B: -1.45899793793276
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-31.txt
+Speaker A: -2.10179444155905
+Speaker B: -2.154397752968884
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-32.txt
+Speaker A: -2.0355585069437994
+Speaker B: -2.0571003875182434
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-33.txt
+Speaker A: -2.0455806990742693
+Speaker B: -2.15371114100598
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-34.txt
+Speaker A: -2.1188850055081483
+Speaker B: -2.1952671546768077
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-35.txt
+Speaker A: -2.1302574464712367
+Speaker B: -2.1795351679260926
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-36.txt
+Speaker A: -2.069463756710342
+Speaker B: -2.1594614880312464
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-37.txt
+Speaker A: -2.260010452203744
+Speaker B: -2.2248270259903093
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-38.txt
+Speaker A: -2.604087689781936
+Speaker B: -2.6470918855815464
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-39.txt
+Speaker A: -2.2472432010356904
+Speaker B: -2.3065836186869473
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-4.txt
+Speaker A: -2.1485823186823407
+Speaker B: -2.1475117922118487
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-40.txt
+Speaker A: -2.1001012717549896
+Speaker B: -2.2018474570578808
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-41.txt
+Speaker A: -2.159269022927154
+Speaker B: -2.2511771326759926
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-42.txt
+Speaker A: -2.08643961742285
+Speaker B: -2.1065714991365887
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-43.txt
+Speaker A: -2.0959981947875375
+Speaker B: -2.1715100304545625
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-44.txt
+Speaker A: -2.198132014616975
+Speaker B: -2.202773733711828
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-45.txt
+Speaker A: -2.2808974134163966
+Speaker B: -2.4001218824119985
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-46.txt
+Speaker A: -2.1386817279879815
+Speaker B: -2.21476354071933
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-47.txt
+Speaker A: -2.1155178838342956
+Speaker B: -2.195782386487553
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-48.txt
+Speaker A: -2.275969245587731
+Speaker B: -2.382966788148655
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-49.txt
+Speaker A: -2.394805432179115
+Speaker B: -2.394187654659471
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-5.txt
+Speaker A: -2.1075234077135243
+Speaker B: -2.195629544058556
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-50.txt
+Speaker A: -2.017327840177475
+Speaker B: -2.148239487578593
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-51.txt
+Speaker A: -2.069803254628571
+Speaker B: -2.1009871756260936
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-6.txt
+Speaker A: -2.046863792756742
+Speaker B: -2.0617571428019192
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-7.txt
+Speaker A: -1.9709451215068523
+Speaker B: -2.041236536916603
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-8.txt
+Speaker A: -2.210624402045055
+Speaker B: -2.25349476297443
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA-9.txt
+Speaker A: -2.0416659056115227
+Speaker B: -2.118294958543368
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/obama-mccain3/OBAMA.txt
+Speaker A: -2.108906211644534
+Speaker B: -2.1788919626304346
+
+Conclusion: Speaker A is most likely
+Speaker A is: speeches/bush1+2.txt Speaker B is speeches/kerry1+2.txt
+name of speech is:  speeches/bush-kerry3/BUSH-0.txt
+Speaker A: -2.167109474608936
+Speaker B: -2.23639168736704
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-1.txt
+Speaker A: -2.1997846360911453
+Speaker B: -2.21439310816139
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-10.txt
+Speaker A: -2.151394830390801
+Speaker B: -2.241306517157357
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-11.txt
+Speaker A: -2.220721672505392
+Speaker B: -2.2543988270939543
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-12.txt
+Speaker A: -2.3024063802573345
+Speaker B: -2.324131871420331
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-13.txt
+Speaker A: -2.266425629300686
+Speaker B: -2.318124010039909
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-14.txt
+Speaker A: -2.2526177263807385
+Speaker B: -2.285267470632137
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-15.txt
+Speaker A: -2.2244566230165503
+Speaker B: -2.2099935491924922
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-16.txt
+Speaker A: -2.2231517239902594
+Speaker B: -2.2297920738563173
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-17.txt
+Speaker A: -2.18487628865639
+Speaker B: -2.1832012507897134
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-18.txt
+Speaker A: -2.0707050019173487
+Speaker B: -2.202607602887656
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-19.txt
+Speaker A: -2.3835403247683637
+Speaker B: -2.3464340016018825
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-2.txt
+Speaker A: -2.2778415255092086
+Speaker B: -2.2688141391791645
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-20.txt
+Speaker A: -2.1932072263980946
+Speaker B: -2.238435413652427
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-21.txt
+Speaker A: -2.3456334687207354
+Speaker B: -2.33289469518764
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-22.txt
+Speaker A: -2.1729892170808247
+Speaker B: -2.2265843323240855
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-23.txt
+Speaker A: -2.125977200060067
+Speaker B: -2.17045285263865
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-24.txt
+Speaker A: -2.213164567671874
+Speaker B: -2.2209109358743993
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-25.txt
+Speaker A: -2.2509459309092392
+Speaker B: -2.275405591444143
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-26.txt
+Speaker A: -2.212192996937176
+Speaker B: -2.216802185940129
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-27.txt
+Speaker A: -2.3292810608777192
+Speaker B: -2.327108311751139
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-28.txt
+Speaker A: -2.206549685330691
+Speaker B: -2.253812469065252
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-3.txt
+Speaker A: -2.1944041731220545
+Speaker B: -2.1724780740522394
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-4.txt
+Speaker A: -1.9298230241949452
+Speaker B: -1.845793496082756
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-5.txt
+Speaker A: -2.396194737236002
+Speaker B: -2.462444413958714
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-6.txt
+Speaker A: -2.2587446910933275
+Speaker B: -2.279131221836149
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-7.txt
+Speaker A: -2.2329493215804113
+Speaker B: -2.2828903130346894
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-8.txt
+Speaker A: -2.346496202751493
+Speaker B: -2.4322788976991085
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH-9.txt
+Speaker A: -2.1520128134172065
+Speaker B: -2.1844002988135265
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/BUSH.txt
+Speaker A: -2.234059823289701
+Speaker B: -2.259675641972742
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-0.txt
+Speaker A: -2.2505401585274933
+Speaker B: -2.1515593221816687
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-1.txt
+Speaker A: -2.3576935540248374
+Speaker B: -2.2374206859192447
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-10.txt
+Speaker A: -2.2309843184999814
+Speaker B: -2.1895550870215716
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-11.txt
+Speaker A: -2.2309285695569994
+Speaker B: -2.1440433841541617
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-12.txt
+Speaker A: -2.214773110899871
+Speaker B: -2.150817593384611
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-13.txt
+Speaker A: -2.3449396548060544
+Speaker B: -2.2816877118523657
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-14.txt
+Speaker A: -2.183168903176212
+Speaker B: -2.1344580052365894
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-15.txt
+Speaker A: -2.192624204877397
+Speaker B: -2.0849179164876435
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-16.txt
+Speaker A: -2.244072147645533
+Speaker B: -2.1868628921974875
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-17.txt
+Speaker A: -2.1536996612068986
+Speaker B: -2.135248623968887
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-18.txt
+Speaker A: -2.2732080392055654
+Speaker B: -2.2070148474400604
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-19.txt
+Speaker A: -2.5445338811031903
+Speaker B: -2.486114469369712
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-2.txt
+Speaker A: -2.309088434156956
+Speaker B: -2.2099227512252835
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-20.txt
+Speaker A: -3.0714118455808377
+Speaker B: -3.1277981308271774
+
+Conclusion: Speaker A is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-21.txt
+Speaker A: -2.243712385285932
+Speaker B: -2.1668342705993786
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-22.txt
+Speaker A: -2.3085491760671495
+Speaker B: -2.181802828061537
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-23.txt
+Speaker A: -2.1562483724898054
+Speaker B: -2.1064909321012646
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-24.txt
+Speaker A: -2.1105535054065907
+Speaker B: -2.0660835758215153
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-25.txt
+Speaker A: -2.2722149389594626
+Speaker B: -2.2322188784650208
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-26.txt
+Speaker A: -2.156634593767158
+Speaker B: -2.109498661261542
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-27.txt
+Speaker A: -2.196743377953252
+Speaker B: -2.1353965900311476
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-28.txt
+Speaker A: -2.1674369964767175
+Speaker B: -2.11102835552222
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-29.txt
+Speaker A: -2.1872897707985643
+Speaker B: -2.159253474345488
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-3.txt
+Speaker A: -2.2287364117476
+Speaker B: -2.142401009808852
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-30.txt
+Speaker A: -2.1517280538534123
+Speaker B: -2.087683901106561
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-4.txt
+Speaker A: -2.2592002234423436
+Speaker B: -2.1341678822183217
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-5.txt
+Speaker A: -2.291062973711304
+Speaker B: -2.198093851057112
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-6.txt
+Speaker A: -2.168663178427998
+Speaker B: -2.092732847744627
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-7.txt
+Speaker A: -2.19753240256458
+Speaker B: -2.157613895299258
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-8.txt
+Speaker A: -2.16824186156324
+Speaker B: -2.1120927294629586
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY-9.txt
+Speaker A: -2.2257601105604574
+Speaker B: -2.1724743282140047
+
+Conclusion: Speaker B is most likely
+name of speech is:  speeches/bush-kerry3/KERRY.txt
+Speaker A: -2.2179486233586116
+Speaker B: -2.148871667937715
+
+Conclusion: Speaker B is most likely
